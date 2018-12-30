@@ -1,0 +1,14 @@
+{
+  "name": "random_pin_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests available'"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "telegraf": "^3.25.5"
+  }
+}
